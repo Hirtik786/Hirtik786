@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [Login & Signup Project](https://user-login-signup.vercel.app/)
 
-- I'm currently learning **React js**
-
-- 🔭 I’m currently working on [Dashboard-project](https://dashboard-ten-jet.vercel.app/)
+- I'm currently learning **Java**
 
 - 👨‍💻 Here is My Portfolio Link [https://hirtik-karwa-resume.vercel.app/](https://hirtik-karwa-resume.vercel.app/)
 
