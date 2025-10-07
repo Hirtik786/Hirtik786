@@ -5,9 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=hirtik786&label=Profile%20Views&color=8e44ad&style=flat-square" alt="Profile views" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Building+with+Passion+%F0%9F%92%BB;Learning+Every+Day+%F0%9F%92%A1;Let%27s+Connect+and+Create+Together!+%F0%9F%91%8B" />
+</div>
+
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 
 - 🌍 From **Tharparkar, Pakistan**  
 - 💼 Intern at **Jaxei Automotive Pvt. Ltd.** (Powertrain Software)  
@@ -18,56 +22,66 @@
 
 ---
 
-### 🚀 Projects I'm Proud Of
+## 🚀 Featured Projects
 
-#### 🔐 Login & Signup System
-- [🔗 Live Demo](https://user-login-signup.vercel.app/)  
-- Firebase-based secure auth system with responsive UI  
+> _On an available basis – swap in your latest or favorite repos anytime!_
 
-#### 🔎 Image to Excel Table Extractor
-- GUI app that extracts tables from images and converts them to Excel  
-- Tools: `Tkinter`, `Pytesseract`, `Pandas`  
-
-#### 📦 Smart Food Waste Redistribution (Full Stack)
-- Flask + MySQL app that connects donors with NGOs for food redistribution  
-- Includes ML-based expiry classification  
-
-#### 🧠 Sensor Attack Detection System *(ML Project)*
-- Detected anomalies in sensor values using ML models  
-- Accuracy: **88%**, Precision: **87.04%**  
-- Tools: `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`  
-
-#### 💧 IoT-Based Water Optimization System
-- Built using `ESP32`, `ESP8266`, and `Arduino`  
-- Optimized water usage with real-time data monitoring  
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>🔐 Login & Signup System</b><br>
+      <a href="https://github.com/hirtik786/login-signup-system">[Repo]</a> | 
+      <a href="https://user-login-signup.vercel.app/">[Live Demo]</a>
+      <br>
+      <sub>Firebase-based secure auth system with responsive UI</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>🔎 Image to Excel Table Extractor</b><br>
+      <a href="https://github.com/hirtik786/image-to-excel-table-extractor">[Repo]</a>
+      <br>
+      <sub>Extracts tables from images & converts to Excel.<br><b>Tools:</b> Tkinter, Pytesseract, Pandas</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>📦 Smart Food Waste Redistribution</b><br>
+      <a href="https://github.com/hirtik786/food-redistribution-platform">[Repo]</a>
+      <br>
+      <sub>Flask + MySQL app for food donation, ML expiry classifier</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>🧠 Sensor Attack Detection (ML)</b><br>
+      <a href="https://github.com/hirtik786/sensor-attack-detection">[Repo]</a>
+      <br>
+      <sub>Anomaly detection in sensor data<br>Accuracy: <b>88%</b>, Precision: <b>87.04%</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>💧 IoT Water Optimization System</b><br>
+      <a href="https://github.com/hirtik786/iot-water-optimization">[Repo]</a>
+      <br>
+      <sub>ESP32 + Arduino for smart water usage, live monitoring</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>🌟 More Projects...</b><br>
+      <a href="https://github.com/hirtik786?tab=repositories">View all repositories</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Tools & Technologies
+## 🎯 Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,java,cpp,c,mysql,firebase,git,php,laravel,arduino" />
   <img src="https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="IoT"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/karwahirtik" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -84,25 +98,38 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirtik786&show_icons=true&theme=gruvbox" width="48%" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirtik786&theme=gruvbox" width="48%" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hirtik786&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true" width="47%" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirtik786&theme=gruvbox&hide_border=true&background=00000000" width="47%" alt="GitHub streak"/>
 </p>
 
 ---
 
-### 🧮 Most Used Languages
+## 🧮 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirtik786&layout=compact&theme=gruvbox" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirtik786&layout=compact&theme=gruvbox&hide_border=true" width="60%" alt="Top languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hirtik786&theme=gruvbox&no-bg=true&margin-w=15" alt="GitHub trophies" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer"/>
+</div>
+
+<!-- 
+  Pro Tip: 
+  - To update projects, just change the repo/demo links and short description above!
+  - To add/remove tools, update the icons in the Tools & Technologies section.
+  - For more customization, explore shields.io or skillicons.dev.
+-->
