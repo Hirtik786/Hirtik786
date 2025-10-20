@@ -18,7 +18,7 @@
 - 🌱 Currently diving deeper into **Backend Development** and **Machine Learning**  
 - 🧠 Building strong fundamentals in **Frontend + ML**  
 - 📫 Reach me at: **karwahirtik@gmail.com**  
-- 🔗 Portfolio: [hirtik-karwa-resume.vercel.app](https://hirtik-karwa-resume.vercel.app/)  
+- 🔗 Portfolio: [Click Here](https://hirtik-dev.lovable.app/)  
 
 ---
 
